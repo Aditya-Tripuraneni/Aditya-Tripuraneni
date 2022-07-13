@@ -14,7 +14,7 @@
 
 
 ## Connect with me!
-[My LinkedIn](www.linkedin.com/in/adityat04) 
+[LinkedIn](https://www.linkedin.com/in/aditya-tripuraneni-66b438240/) 
 
 ## Programming Languages and Tech! 🖥️
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
