@@ -36,4 +36,6 @@
 ![Mediapipe](https://img.shields.io/badge/-Mediapipe-A200FF?style=flat-square&logo=google&logoColor=0091FF)
 ![Numpy](https://img.shields.io/badge/-Numpy-00FF85?style=flat-square&logo=numpy&logoColor=0091FF)
 ![Scikit-learn](https://img.shields.io/badge/-Sklearn-FF6100?style=flat-square&logo=scikit-learn&logoColor=0091FF)
+![Twilio](https://img.shields.io/badge/-twilio-E200FF?style=flat-square&logo=twilio&logoColor=0091FF)
+
 
