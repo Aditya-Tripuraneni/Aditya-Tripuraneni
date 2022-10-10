@@ -7,7 +7,8 @@
 - 👨‍💻 I’m currently working on my personal portfolio website. 
 - 📚 I’m currently learning Data structures & Algorithms along with front end development! 
 - 💪🏼 Future Goals: Learn more technologies and explore Machine learning!🤖
-- ⚡ Fun fact: I have 2 dogs and I love to work out!
+- Member of the McMaster Artificial Intelligence Institute.
+- Member of the McMaster Google Developers Student Club. 
 
 ## My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tripuraneni&count_private=true&show_icons=true&theme=radical)
