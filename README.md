@@ -8,7 +8,6 @@
 - 📚 I’m currently learning Data structures & Algorithms along with front end development! 
 - 💪🏼 Future Goals: Learn more technologies and explore Machine learning!🤖
 - Member of the McMaster Artificial Intelligence Institute.
-- Member of the McMaster Google Developers Student Club. 
 
 ## My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tripuraneni&count_private=true&show_icons=true&theme=radical)
