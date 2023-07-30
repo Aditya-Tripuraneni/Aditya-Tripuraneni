@@ -4,8 +4,8 @@
 
 ## Software Engineering student at McMaster University.
 
-- 👨‍💻 I’m currently working on my personal portfolio website. 
-- 📚 I’m currently learning Data structures & Algorithms along with front end development! 
+- 👨‍💻 Currently tuning up my personal website!
+- 📚 I’m a flight controls software engineer for the McMaster Rocketry team! 
 - 💪🏼 Future Goals: Learn more technologies and explore Machine learning!🤖
 
 ## My Stats
