@@ -8,13 +8,6 @@
 - 📚 I’m a flight controls software engineer for the McMaster Rocketry team! 
 - 💪🏼 Future Goals: Learn more technologies and explore Machine learning!🤖
 
-## My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tripuraneni&count_private=true&show_icons=true&theme=radical)
-
-
-## Connect with me!
-[LinkedIn](https://www.linkedin.com/in/aditya-tripuraneni-66b438240/) 
-
 ## Programming Languages and Tech! 🖥️
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -36,5 +29,16 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-00FF85?style=flat-square&logo=numpy&logoColor=0091FF)
 ![Scikit-learn](https://img.shields.io/badge/-Sklearn-FF6100?style=flat-square&logo=scikit-learn&logoColor=0091FF)
 ![Twilio](https://img.shields.io/badge/-twilio-E200FF?style=flat-square&logo=twilio&logoColor=0091FF)
+
+
+## My Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tripuraneni&count_private=true&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tripuraneni&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Tripuraneni&theme=default)
+
+
+## Connect with me!
+[LinkedIn](https://www.linkedin.com/in/aditya-tripuraneni-66b438240/) 
+
 
 
