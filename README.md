@@ -33,8 +33,8 @@
 
 ## My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tripuraneni&count_private=true&show_icons=true&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tripuraneni&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Tripuraneni&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tripuraneni&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Tripuraneni&theme=radical)
 
 
 ## Connect with me!
