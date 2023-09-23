@@ -28,6 +28,13 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-00FF85?style=flat-square&logo=numpy&logoColor=0091FF)
 ![Scikit-learn](https://img.shields.io/badge/-Sklearn-FF6100?style=flat-square&logo=scikit-learn&logoColor=0091FF)
 ![Twilio](https://img.shields.io/badge/-twilio-E200FF?style=flat-square&logo=twilio&logoColor=0091FF)
+![Static Badge](https://img.shields.io/badge/C-8A2BE2)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-f0243f)
+![Static Badge](https://img.shields.io/badge/Linux-5ef024)
+![Static Badge](https://img.shields.io/badge/Rust-%2324f0a5)
+![Static Badge](https://img.shields.io/badge/Verilog-%239724f0)
+
+
 
 
 ## My Stats
