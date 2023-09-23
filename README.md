@@ -4,9 +4,8 @@
 
 ## Software Engineering student at McMaster University.
 
-- 👨‍💻 Currently tuning up my personal website!
+- 👨‍💻 Currently learning data structures & Algorithms!
 - 📚 I’m a flight controls software engineer for the McMaster Rocketry team! 
-- 💪🏼 Future Goals: Learn more technologies and explore Machine learning!🤖
 
 ## Programming Languages and Tech! 🖥️
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
