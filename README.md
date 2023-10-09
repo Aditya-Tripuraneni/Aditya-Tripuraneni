@@ -4,8 +4,9 @@
 
 ## Software Engineering student at McMaster University.
 
-- 👨‍💻 Currently learning data structures & Algorithms!
-- 📚 I’m a flight controls software engineer for the McMaster Rocketry team! 
+## Current Positions
+* Flight Controls Software Engineer || McMaster Rocketry || July 2023 - Present
+* Hatch Centre Coordinator || McMaster Engineering Society || May 2023 - Present
 
 ## Programming Languages and Tech! 🖥️
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
