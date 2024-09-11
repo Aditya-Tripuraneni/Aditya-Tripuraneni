@@ -5,8 +5,12 @@
 ## Software Engineering student at McMaster University.
 
 ## Current Positions
-* Flight Controls Software Engineer Student || McMaster Rocketry || July 2023 - Present
-* Software Engineering Intern @RBC
+* Controls Engineering Co-Lead || McMaster Rocketry || July 2024 - Present
+  
+## Past Positions
+* Software Engineering Intern || RBC || May 2024 - August 2024
+* Flight Controls Software Engineer || McMaster Rocketry || July 2023 - July 2024
+* MES Hatch Coordinator || McMaster Engineering Society || May 2023 - April 2024
 
 ## Programming Languages and Tech! 🖥️
 ![Java](https://img.shields.io/badge/Java-%237883ff?style=for-the-badge&logo=JAVA&logoColor=%23ffffff)
