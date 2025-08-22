@@ -4,10 +4,13 @@
 
 ## Software Engineering student at McMaster University.
 
+I like to build and solve complex problems.
+
 ## Current Positions
-*  Software Development Engineer Intern || RBC || May 2025 - Present
+*  Software Engineer Intern || PointClickCare || Sept. 2025 - Present
   
 ## Past Positions
+* Amplify Software Engineering Intern || RBC || May 2025 - August 2025
 * Software Engineering Intern || RBC || May 2024 - August 2024
 * Controls Engineering Co-Lead || McMaster Rocketry || July 2024 - April 2025
 * Flight Controls Software Engineer || McMaster Rocketry || July 2023 - July 2024
