@@ -60,13 +60,6 @@ I like to build and solve complex problems.
 ![Gitlab](https://img.shields.io/badge/GitLab-%23950aff?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-
-## My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Tripuraneni&count_private=true&show_icons=true&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Tripuraneni&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Tripuraneni&theme=radical)
-
-
 ## Connect with me!
 [LinkedIn](https://www.linkedin.com/in/aditya-tripuraneni-66b438240/) 
 
