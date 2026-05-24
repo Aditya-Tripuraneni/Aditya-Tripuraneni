@@ -1,7 +1,5 @@
 # Hey there, I'm Aditya!
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## Software Engineering student at McMaster University.
 
 I like to build and solve complex problems.
