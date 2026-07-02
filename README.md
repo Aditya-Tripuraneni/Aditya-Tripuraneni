@@ -2,7 +2,7 @@
 
 ## Software Engineering student at McMaster University.
 
-I like to build and solve complex problems.
+I like to build and solve complex problems. You can find different projects, experiements and prototypes within my repos.
 
 ## Current Positions
 *  Software Engineer Intern || PointClickCare || Sept. 2025 - Present
@@ -56,6 +56,14 @@ I like to build and solve complex problems.
 ![Node.JS](https://img.shields.io/badge/Node.JS-%236155ab?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%3e00fa?style=for-the-badge&logo=git&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-%23950aff?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## Open Source Contributions
+
+  I have contributed to the following open source projects:
+
+  - [PyTest](https://github.com/pytest-dev/pytest)
+  - [Intellagent](https://github.com/plurai-ai/intellagent)
+  - [mem0](https://github.com/mem0ai/mem0)
 
 
 ## Connect with me!
