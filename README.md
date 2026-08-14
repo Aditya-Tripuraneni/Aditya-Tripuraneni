@@ -4,12 +4,11 @@
 
 I like to build and solve complex problems. You can find different projects, experiements and prototypes within my repos.
 
-## Current Positions
-*  Software Engineer Intern || PointClickCare || Sept. 2025 - Present
+## Current @Wealthsimple
   
-## Past Positions
-* Amplify Software Engineering Intern || RBC || May 2025 - August 2025
-* Software Engineering Intern || RBC || May 2024 - August 2024
+## Prev @ PointClickCare, RBC 
+
+## School Clubs
 * Controls Engineering Co-Lead || McMaster Rocketry || July 2024 - April 2025
 * Flight Controls Software Engineer || McMaster Rocketry || July 2023 - July 2024
 * MES Hatch Coordinator || McMaster Engineering Society || May 2023 - April 2024
